@@ -1,2 +1,2 @@
 # personal-introduceWebsite
-Here is my reposive website. 
+Here is my responsive website. 
